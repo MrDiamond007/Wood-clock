@@ -4,7 +4,7 @@ This is a simple clock project built with HTML, CSS, and JavaScript. It displays
 
 ## Preview
 
-![Clock Preview](preview.png)
+![Clock Preview]([preview.png](https://wood-clock.vercel.app/))
 
 ## Features
 
